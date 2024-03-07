@@ -7,7 +7,7 @@ Use Beautiful Soup to create a parser and extract text elements from the website
 Extract titles and preview text of news articles and store them in Python dictionaries.
 Store all dictionaries in a Python list and optionally export the scraped data to a JSON file.
 
-##Part 2: Scrape and Analyze Mars Weather Data:
+## Part 2: Scrape and Analyze Mars Weather Data:
 Visit the Mars Temperature Data Site and identify elements to scrape.
 Use Beautiful Soup to scrape data from the HTML table.
 Assemble the scraped data into a Pandas DataFrame with specific column headings.
