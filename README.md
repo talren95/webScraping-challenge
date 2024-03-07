@@ -1,5 +1,5 @@
 ## Repository Structure:
-In the repository provided, you can locate the Jupyter notebooks under the "Notebooks" folder. After running all the cells in the second notebook (part_2_mars_weather.ipynb), a CSV file will be generated outside of the "Notebooks" directory, containing all the scraped information from the website.
+In the repository provided, you can locate the Jupyter notebooks under the "Notebooks" folder. After running all the cells in the second notebook (part_2_mars_weather.ipynb), a CSV file will be generated outside of the "Notebooks" directory, containing all the scraped information from the mars website.
 
 ## Part 1: Scrape Titles and Preview Text from Mars News:
 Inspect the Mars news website to identify elements to scrape.
